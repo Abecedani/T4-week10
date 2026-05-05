@@ -30,7 +30,4 @@ Aplikasi CRUD (Create, Read, Update, Delete) sederhana untuk manajemen inventari
 ![Edit](screenshot/edit.png)
 
 ### 4. Struktur Database (phpMyAdmin)
-<<<<<<< HEAD
 ![Database](screenshot/database.png)
-=======
->>>>>>> 0d73ab30f205e1ec0a94486091b398fc7d7856b1
