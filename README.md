@@ -33,5 +33,4 @@ Aplikasi CRUD (Create, Read, Update, Delete) sederhana untuk manajemen inventari
 <<<<<<< HEAD
 ![Database](screenshot/database.png)
 =======
-![Database](screenshot/database.png)
 >>>>>>> 0d73ab30f205e1ec0a94486091b398fc7d7856b1
