@@ -3,10 +3,10 @@
 **Data Mahasiswa:**
 - **Nama** : Ahmad Dani
 - **NIM** : F1D02410140
-- **Kelas** : Pemrograman Web (Teknik Informatika UNRAM)
+- **Kelas** : C
 
 ## Deskripsi
-Aplikasi CRUD (Create, Read, Update, Delete) sederhana untuk manajemen inventaris barang. Aplikasi ini dibangun menggunakan PHP native, database MySQL, dan framework Bootstrap untuk antarmuka pengguna. Keamanan aplikasi ini telah dioptimalkan menggunakan *Prepared Statements* untuk mencegah SQL Injection dan `htmlspecialchars()` untuk mencegah XSS.
+Aplikasi CRUD (Create, Read, Update, Delete) menggunakan PHP, MySQL dan Bootstrap.
 
 - **Database** : inventaris_db
 - **Tabel** : barang
@@ -15,7 +15,7 @@ Aplikasi CRUD (Create, Read, Update, Delete) sederhana untuk manajemen inventari
 1. Pastikan layanan **Apache** dan **MySQL** di XAMPP sudah aktif.
 2. Buat database baru bernama `inventaris_db` di phpMyAdmin.
 3. Import file `inventaris_db.sql` yang tersedia di root folder project ini ke dalam database tersebut.
-4. Letakkan folder project `T4-week10` ke dalam direktori `C:/xampp/htdocs/`.
+4. Letakkan folder project `T4-week10` ke dalam direktori `D:/xampp/htdocs/`.
 5. Buka browser dan akses link: `http://localhost/T4-week10/`
 
 ## Screenshot
